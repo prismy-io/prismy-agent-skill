@@ -12,7 +12,7 @@ Your assistant learns to:
 ## Install
 
 ```bash
-npx skills add prismyio/agent-skill
+npx skills add prismy-io/agent-skill
 ```
 
 ## Prerequisites
